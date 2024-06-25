@@ -31,7 +31,7 @@ apt-get upgrade -y
  python X-10-SMS.py
 ```
 
-# ULTRA EMAIL BOMBER 
+# X-10-SMS-SENDER SCREENSHOTS
 ![](Screenshot.jpg)
 
 # Warning
