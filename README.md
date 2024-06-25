@@ -22,7 +22,7 @@ apt-get upgrade -y
  pkg install git -y
 ```
 ```console
- git clone https://github.com/Versionx10/ULTRA-EMAIL.git
+ git clone https://github.com/Versionx10/X-10-SMS-SENDER.git
 ```
 ```console
  cd X-10-SMS-SENDER
