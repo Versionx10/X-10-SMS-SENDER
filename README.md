@@ -28,7 +28,7 @@ apt-get upgrade -y
  cd X-10-SMS-SENDER
 ```
 ```console
- python Sms.py
+ python X-10-SMS.py
 ```
 
 # ULTRA EMAIL BOMBER 
