@@ -32,7 +32,7 @@ apt-get upgrade -y
 ```
 
 # ULTRA EMAIL BOMBER 
-![](Screenshot.png)
+![](Screenshot.jpeg)
 
 # Warning
 ***This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.***
